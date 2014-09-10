@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: f3ee81769be1cfb4da77fc83d08870ff
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - mainMenuFont: {fileID: 12800000, guid: dbd25e57f4c9b8f46a8b6ef3916bf76e, type: 3}
+  - textFont: {fileID: 12800000, guid: 566cc10601cfa8f42b4893672af5f631, type: 3}
+  - newGameButtonTexture: {fileID: 2800000, guid: 14b2311dda51ee7409fe9313e08f21a5,
+      type: 3}
+  - howToPlayButtonTexture: {fileID: 2800000, guid: 8d1c97ede8107ac49bdeafccca3dead1,
+      type: 3}
+  - creditsButtonTexture: {fileID: 2800000, guid: bd516373254b4444d8c3aac233024ea7,
+      type: 3}
+  - restartButtonTexture: {fileID: 2800000, guid: c23ffe6daeb29374b909dc84b19a902c,
+      type: 3}
+  - mainMenuButtonTexture: {fileID: 2800000, guid: 875476d69fa489c4e9427b14e104a100,
+      type: 3}
+  - closeButtonTexture: {fileID: 2800000, guid: 51d12c8b5f274574eb295f09725082ec,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
